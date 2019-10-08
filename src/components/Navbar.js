@@ -3,8 +3,7 @@ import { Link, Navlink } from 'react-router-dom'
 import '../App.css'
 import logo from './Images/IMG_0086.PNG'
 
-const Navbar = (props) => {
-    console.log(props)
+const Navbar = () => {
     return (
         <nav class="navbar navbar-light bg-light ">
 
