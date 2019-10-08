@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VictorPortfolio/static/css/main.70e11740.chunk.css",
+    "main.js": "/VictorPortfolio/static/js/main.c9552861.chunk.js",
+    "main.js.map": "/VictorPortfolio/static/js/main.c9552861.chunk.js.map",
+    "runtime-main.js": "/VictorPortfolio/static/js/runtime-main.48f203dd.js",
+    "runtime-main.js.map": "/VictorPortfolio/static/js/runtime-main.48f203dd.js.map",
+    "static/js/2.cf4d06aa.chunk.js": "/VictorPortfolio/static/js/2.cf4d06aa.chunk.js",
+    "static/js/2.cf4d06aa.chunk.js.map": "/VictorPortfolio/static/js/2.cf4d06aa.chunk.js.map",
+    "index.html": "/VictorPortfolio/index.html",
+    "precache-manifest.e08ac153d732535700101e8e3e53e1ae.js": "/VictorPortfolio/precache-manifest.e08ac153d732535700101e8e3e53e1ae.js",
+    "service-worker.js": "/VictorPortfolio/service-worker.js",
+    "static/css/main.70e11740.chunk.css.map": "/VictorPortfolio/static/css/main.70e11740.chunk.css.map",
+    "static/media/IMG_0086.PNG": "/VictorPortfolio/static/media/IMG_0086.3442021c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f203dd.js",
+    "static/js/2.cf4d06aa.chunk.js",
+    "static/css/main.70e11740.chunk.css",
+    "static/js/main.c9552861.chunk.js"
+  ]
+}
