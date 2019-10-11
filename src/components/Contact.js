@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Contact = (props) => {
+const Contact = () => {
     // setTimeout(() => {
     //     props.history.push('/about')
     // }, 2000);

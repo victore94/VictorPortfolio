@@ -1,11 +1,13 @@
 import React from 'react';
-
+import './css/About.css'
 
 const About = () => {
     return (
         <div className='container'>
-            <h4 className='center'>About</h4>
-            <p>this is the about</p>
+            <h2 className='center'>About me</h2>
+            <p>Hello! My name is Victor Lopez, I'm a California Bay Area based full-stack web developer.
+                I have a diverse set of skills ranging from HTML + Javascript + CSS, to mySQL, Mongodb,
+                Node Modules and React</p>
         </div>
     )
 }
