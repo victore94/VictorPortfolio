@@ -1,0 +1,9 @@
+a {
+  color: #b7cece;
+}
+
+a:hover {
+  background-color: #9e3d34;
+  color: #b7cece;
+  border-radius: 3px;
+}
