@@ -1,0 +1,22 @@
+/* .card-img-top {
+  width: 500px;
+  height: 500px;
+} */
+
+.card {
+  height: 400px;
+  /* width: 250; */
+}
+
+.btn {
+  color: #393e41;
+  background-color: #b7cece;
+}
+
+h5 {
+  color: #393e41;
+}
+
+.projectP {
+  color: #393e41;
+}

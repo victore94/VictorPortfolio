@@ -21,7 +21,10 @@ const Navbar = () => {
                 <Link to='/contact' class="nav-link" >Contact</Link>
             </li>
             <li class="nav-item">
-                <a href={Resume} class="nav-link" >Resume</a>
+                <Link to='/projects' class="nav-link" >Projects</Link>
+            </li>
+            <li class="nav-item">
+                <a href={Resume} class="nav-link" target='_blank'>Resume</a>
             </li>
             {/* <li class="nav-item">
                     <Link class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</Link>
