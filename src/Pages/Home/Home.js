@@ -9,7 +9,7 @@ const Home = () => {
             <div className='box'>
                 <div className='row'>
                     <div className='col'>
-                        <img src={home} />
+                        <img className='selfie' src={home} />
                     </div>
                     <div className='col'>
                         <p className='homeP'>
