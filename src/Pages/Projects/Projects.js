@@ -28,18 +28,18 @@ const Projects = () => {
                     </div>
                 </div>
             </div>
-            <div className='row'>
+            {/* <div className='row'>
                 <div className="col-sm-6">
                     <div className="card">
-                        <img src={require('./Images/project2.png')} className="card-img-top" alt="Ebrius screenshot" />
-                        <div className="card-body">
-                            <h5 className='projectP' className="card-title">Ebrius</h5>
-                            <p className='projectP' className="card-text">Put your bartending creations to the test and allow people to try and recreate your drinks.</p>
-                            <a href="https://secure-plateau-53716.herokuapp.com/cocktail.html" className="btn">Check it out</a>
+                        <img className="card-img-top" alt="Ebrius screenshot" />
+                        < div className="card-body" >
+                            <h5 className='projectP' className="card-title">Gamblr</h5>
+                            <p className='projectP' className="card-text">Bet on e-sporting events</p>
+                            <a href="" className="btn">Check it out</a>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
         </div >
     )
