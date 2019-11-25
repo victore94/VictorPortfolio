@@ -1,0 +1,21 @@
+/* p {
+  background-attachment: fixed;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+  color: black;
+} */
+footer {
+  height: 10px;
+}
+.box {
+  max-width: 85%;
+  margin: auto;
+}
+.homeP {
+  color: black;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+  }
+}

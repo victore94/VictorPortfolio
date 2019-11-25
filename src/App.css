@@ -1,10 +1,4 @@
 body {
+  color: black;
   font-family: "Roboto", sans-serif;
-}
-
-.App {
-  text-align: center;
-  background-color: #393e41;
-  padding-top: 15px;
-  padding-bottom: 35px;
 }

@@ -1,0 +1,21 @@
+.blackbar {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  background-color: black;
+  /* position: fixed; */
+  width: 95%;
+  margin: auto;
+  margin-bottom: 2%;
+  top: 0;
+}
+
+a {
+  color: white;
+  margin-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+a:hover {
+  color: white;
+}
