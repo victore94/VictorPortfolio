@@ -13,8 +13,8 @@ const Home = () => {
                     </div>
                     <div className='col'>
                         <p className='homeP'>
-                            Hello! My name is Victor Lopez, I'm a California Bay Area based full-stack web developer.
-                            I have a diverse set of skills ranging from MongoDB to MySQL, Express, ReactJS and Node.JS.
+                            Hello! My name is Victor Lopez, I'm a California Bay Area based Full Stack Web Developer.
+                            I have a diverse set of skills ranging from MongoDB to MySQL, Express, ReactJS, Node.JS and many more.
                         </p>
                     </div>
                 </div>
