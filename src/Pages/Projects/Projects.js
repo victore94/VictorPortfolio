@@ -14,7 +14,7 @@ const Projects = () => {
                             <h5 className='projectP' className="card-title">Excursion</h5>
                             <p className='projectP' className="card-text">A simple to use travel planner that finds you cheap flights and great food in a location you choose.</p>
                             <a href="https://victore94.github.io/Excursion/" target='_blank' className='projectP' className="btn">Check it out</a>
-                            <a href="https://victore94.com/Excursion/" target='_blank' className='projectP' className="btn">Repo</a>
+                            <a href="https://github.com/victore94/Excursion" target='_blank' className='projectP' className="btn Repo">Repository</a>
                         </div>
                     </div>
                 </div>
@@ -25,6 +25,8 @@ const Projects = () => {
                             <h5 className='projectP' className="card-title">Ebrius</h5>
                             <p className='projectP' className="card-text">Put your bartending creations to the test and allow people to try and recreate your drinks.</p>
                             <a href="https://secure-plateau-53716.herokuapp.com/cocktail.html" target='_blank' className="btn">Check it out</a>
+                            <a href="https://github.com/victore94/EggshellAndBeige" target='_blank' className='projectP' className="btn Repo">Repository</a>
+
                         </div>
                     </div>
                 </div>
@@ -37,6 +39,8 @@ const Projects = () => {
                             <h5 className='projectP' className="card-title">Gamblr</h5>
                             <p className='projectP' className="card-text">Bet on e-sporting events</p>
                             <a href="https://evening-plains-03671.herokuapp.com/" target='_blank' className="btn">Check it out</a>
+                            <a href="https://github.com/victore94/Gamblr" target='_blank' className='projectP' className="btn Repo">Repository</a>
+
                         </div>
                     </div>
                 </div>
