@@ -7,17 +7,17 @@
 footer {
   height: 10px;
 }
+.selfie {
+  margin-right: 25%;
+}
 .box {
   max-width: 85%;
   margin: auto;
 }
 .homeP {
   color: black;
+  width: 40%;
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-device-pixel-ratio: 3) {
-  .selfie {
-    width: 90%;
-    height: 90%;
-  }
 }
