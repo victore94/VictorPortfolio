@@ -14,6 +14,7 @@ const Projects = () => {
                             <h5 className='projectP' className="card-title">Excursion</h5>
                             <p className='projectP' className="card-text">A simple to use travel planner that finds you cheap flights and great food in a location you choose.</p>
                             <a href="https://victore94.github.io/Excursion/" target='_blank' className='projectP' className="btn">Check it out</a>
+                            <a href="https://victore94.com/Excursion/" target='_blank' className='projectP' className="btn">Repo</a>
                         </div>
                     </div>
                 </div>

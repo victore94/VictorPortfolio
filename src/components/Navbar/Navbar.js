@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
 import './Navbar.css'
-import Resume from '../Extras/WebResume.pdf'
+import Resume from '../Extras/VictorWebResume.pdf'
 // import logo from '../Images/IMG_0086.PNG'
 
 const Navbar = () => {
