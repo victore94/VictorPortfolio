@@ -1,1 +1,4 @@
-My personal portfolio, created with react.
+# My personal portfolio, created entirely with react and Bootstrap. 
+
+deployed at
+# victor-lopez.netlify
